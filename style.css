@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+        font-family: sans-serif;
+}
+form {
+    display: block;
+    margin: 0 auto;
+    max-width: 650px;
+}
+.input-text {
+    width: 85%;
+    padding: 10px;
+}
+button {
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+}
+.msg {
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    border: 1px dotted black;
+}
+.box-blue {
+    padding: 20px;
+    background-color: blue;
+}
+.box-yellow {
+    padding: 20px;
+    background-color: yellow;
+}
